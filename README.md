@@ -39,6 +39,8 @@ An autoexec can have as many (or as little) settings as you want. In this projec
   It will automatically execute all commands when you start your game. 
   If you're having trouble you can reload the script by writing `exec autoexec` to console.
 
+## For Teleports to work, run this as Admin
+`mklink "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\position.cfg" "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\position.log"`
 
 ## Scripts
 
