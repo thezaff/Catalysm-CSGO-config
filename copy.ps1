@@ -1,0 +1,1 @@
+xcopy "C:\Users\zkhod\Code\Catalysm-CSGO-config\csgo\" 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\' /s /y
