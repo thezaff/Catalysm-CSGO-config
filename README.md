@@ -1,5 +1,7 @@
 # Catalysm-CSGO-config
 
+# DPI: 800
+# In-game mouse sens: 1.5
 
 Autoexec for Counter Strike Global Offensive (CSGO) including scripts and binds.
 
